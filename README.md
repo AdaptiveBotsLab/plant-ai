@@ -1,5 +1,5 @@
 # Plant AI
-This project applies momentum contrast learning to the specialised field of plant microbiology.
+This project applies momentum contrast learning to the specialised field of plant microbiology. This is based off the He et al.'s Momentum Contrast for Unsupervised Visual Representation Learning (2020).
 
 # Prerequisites
 Download the packages and libraries from the requirements.txt
